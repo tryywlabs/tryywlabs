@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Yongwoo%Hur&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&textBg=Yongwoo%Hur&fontSize=90" />
 
