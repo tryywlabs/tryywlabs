@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Yongwoo%20Hur&fontSize=90" />
 
-<div align="center>
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Philosopher;Life-long+Student)](https://git.io/typing-svg)
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Philosopher;Life-long+Student)](https://git.io/typing-svg)
+<div align="center>
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ![Yongwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tryywlabs&show_icons=true&theme=radical)
