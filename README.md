@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Yongwoo%20Hur&fontSize=90" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Philosopher;Life-long+Student)](https://git.io/typing-svg)
+
