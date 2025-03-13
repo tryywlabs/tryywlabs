@@ -21,14 +21,30 @@ Here are some ideas to get you started:
   <div align="center>
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
-  <h3 align="center">Tech Stack</h3>
+
   <div align="center">
+    <h3 align="center">Tech Stack</h3>
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
     <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
     <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />&nbsp
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
   </div>
   <br>
+
+  <div>
+    <h3 align="center">Security</h3>
+      <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-Kali Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/>
+  </div>
+
+  <div>
+    <h3 align="center">Developer Tools</h3>
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  </div>
+
 
   ![Yongwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tryywlabs&show_icons=true&theme=radical)
 
