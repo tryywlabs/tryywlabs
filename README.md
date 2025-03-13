@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
+<div class="root" align="center">
   <h1 color="green">Hello!</h1>
-</div>
-<img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Yongwoo%20Hur&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Yongwoo%20Hur&fontSize=90" />
 
 
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Philosopher;Life-long+Student)](https://git.io/typing-svg)
@@ -36,4 +35,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tryywlabs&layout=compact)
 
 </div>
+</div>
+
 
