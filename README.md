@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Philosopher;Life-long+Student)](https://git.io/typing-svg)
 
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFC" />
+
+![Yongwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=trywylabs&show_icons=true&theme=radical)
