@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center>
+  <img src=<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Yongwoo%20Hur&fontSize=90" />
+  </div>
