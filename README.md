@@ -25,13 +25,17 @@ Here are some ideas to get you started:
   <div align="center">
     <h3 align="center">Tech Stack</h3>
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
     <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/-Tailwind CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>&nbsp
-    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" />&nbsp
     <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
   </div>
   <br>
 
@@ -52,6 +56,7 @@ Here are some ideas to get you started:
 
 
   ![Yongwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tryywlabs&show_icons=true&theme=radical)
+  <br>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tryywlabs&layout=compact)
 
