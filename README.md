@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div class="root" align="center">
-  <h1 color="green">Hello!</h1>
   <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Yongwoo%20Hur&fontSize=90" />
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Philosopher;Life-long+Student)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;안녕하세요!;Full-Stack+Development;Cyber+Security;Philosophy)](https://git.io/typing-svg)
   <div align="center>
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-
+  </div>
 
   <div align="center">
     <h3 align="center">Tech Stack</h3>
