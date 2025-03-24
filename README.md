@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 <div align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;안녕하세요!;Full-Stack+Development;Cyber+Security;Philosophy)](https://git.io/typing-svg)
 </div>
-
-  <div align="center">
-    <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </div>
-
   <div align="center">
     <h3 align="center">Tech Stack</h3>
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
