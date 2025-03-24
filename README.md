@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="root" align="center">
+<div id="typeMsg">
   <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Yongwoo%20Hur&fontSize=90" />
+</div>
 
 <div align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;안녕하세요!;Full-Stack+Development;Cyber+Security;Philosophy)](https://git.io/typing-svg)
