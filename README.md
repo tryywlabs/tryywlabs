@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Yongwoo%20Hur&fontSize=90" />
   [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!;안녕하세요!;Full-Stack+Development;Cyber+Security;Philosophy)](https://git.io/typing-svg)
   
   
-  <div align="center">
-    <h3 align="center">Tech Stack</h3>
+<div align="center">
+  <div>
+    <h3>Tech Stack</h3>
     <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
     <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
@@ -35,15 +35,15 @@ Here are some ideas to get you started:
   </div>
   <br>
 
-  <div align="center">
-    <h3 align="center">Security</h3>
+  <div>
+    <h3>Security</h3>
       <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>&nbsp
       <img src="https://img.shields.io/badge/-Kali Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>&nbsp
   </div>
   <br>
 
-  <div align="center">
-    <h3 align="center">Developer Tools</h3>
+  <div>
+    <h3>Developer Tools</h3>
     <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>&nbsp
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp
